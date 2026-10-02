@@ -1,0 +1,14 @@
+# แอปรายการสิ่งที่ต้องทำ (Thai Todo)
+
+React + Vite + Tailwind CSS v4 + lucide-react
+
+## เริ่มใช้งาน
+
+```bash
+npm install
+npm run dev      # เปิดโหมดพัฒนา
+npm run build    # สร้างไฟล์สำหรับ production (โฟลเดอร์ dist)
+npm run preview  # ดูตัวอย่างไฟล์ที่ build แล้ว
+```
+
+ข้อมูลเก็บใน React state เท่านั้น รีเฟรชหน้าแล้วจะรีเซ็ต
